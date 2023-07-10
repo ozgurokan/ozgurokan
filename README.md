@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Özgür Okan Özdal</h1>
 <h3 align="center">A physics student at Yildiz Technical University from Turkey</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/RlEQW27o7dAAAAAC/donut-code.gif")
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/RlEQW27o7dAAAAAC/donut-code.gif"></img>
 
 - 🌱 I’m currently learning **Java, SQL, React,**
 
