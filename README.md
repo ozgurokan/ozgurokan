@@ -1,6 +1,6 @@
 
 <div align="middle" style="text-align: center;">
-         <img  width="800" src=https://github.com/ozgurokan/ozgurokan/assets/67616217/a4b47804-3718-470a-b2d3-05bfc13ac2de">
+         <a href="https://www.linkedin.com/in/ozgur-okan-ozdal/"> <img  width="800" src=https://github.com/ozgurokan/ozgurokan/assets/67616217/a4b47804-3718-470a-b2d3-05bfc13ac2de"> </a>
 </div>
 
 <div align="middle" style="text-align: center;" >
