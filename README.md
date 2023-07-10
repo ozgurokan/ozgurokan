@@ -1,10 +1,10 @@
 
 <div align="middle" style="text-align: center;">
-         <img  width="400" src="https://github.com/ozgurokan/ozgurokan/assets/67616217/3452aeb2-1f6b-40c9-a1e8-ddad3422e8ce">
+         <img  width="800" src=https://github.com/ozgurokan/ozgurokan/assets/67616217/a4b47804-3718-470a-b2d3-05bfc13ac2de">
 </div>
 
 <div align="middle" style="text-align: center;" >
-<h1 align="center">Hi 👋, I'm Özgür Okan Özdal</h1>
+<h2 align="center">Hi 👋, I'm Özgür Okan Özdal</h1>
 <h3 align="center">A physics student at Yildiz Technical University from Turkey</h3>
 
  🌱 I’m currently learning **Java, SQL, React,**
@@ -27,9 +27,9 @@
 </div>
 
 <hr>
-<div align="middle" style="text-align: center;" > <p><img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgurokan&show_icons=true&locale=en&layout=compact" alt="ozgurokan" /></p> </div>
+<div align="center" style="text-align: center;" > <p><img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgurokan&show_icons=true&locale=en&layout=compact" alt="ozgurokan" /></p>
 
-<div align="middle" style="text-align: center;" > <p>&nbsp;<img width="400"  src="https://github-readme-stats.vercel.app/api?username=ozgurokan&show_icons=true&locale=en" alt="ozgurokan" /></p> </div>
+<p>&nbsp;<img width="400"  src="https://github-readme-stats.vercel.app/api?username=ozgurokan&show_icons=true&locale=en" alt="ozgurokan" /></p>
 
-<div align="middle" style="text-align: center;"> <p><img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=ozgurokan&" alt="ozgurokan" /></p> </div>
+<p><img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=ozgurokan&" alt="ozgurokan" /></p> </div>
 <hr>
