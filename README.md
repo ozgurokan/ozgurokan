@@ -4,10 +4,10 @@
 </div>
 
 <div align="middle" style="text-align: center;" >
-<h2 align="center">Hi 👋, I'm Özgür Okan Özdal</h1>
+<h2 align="center">Hi, I'm Özgür Okan Özdal</h1>
 <h3 align="center">A physics student at Yildiz Technical University from Turkey</h3>
 
- 🌱 I’m currently learning **Java, SQL, React,**
+ -> I’m currently learning **Java, SQL, React,**
 
  📫 How to reach me **ozgurokanozdal@gmail.com**
  </div>
